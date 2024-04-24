@@ -13,3 +13,5 @@ git clone https://github.com/ddyrnes/social-media-client.git
 ## Install packages:
 
 npm i
+
+npm run build
