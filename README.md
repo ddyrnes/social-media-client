@@ -8,16 +8,8 @@ Installation guide:
 
 ## Cloned project directory:
 
-cd social-media-client
-
-## List branches, local and remote:
-
-git branch -a
+git clone https://github.com/ddyrnes/social-media-client.git
 
 ## Install packages:
 
-npm install
-
-## Start the project:
-
-npm start
+npm i
