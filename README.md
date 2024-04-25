@@ -27,3 +27,10 @@ npm run test-unit
 ```bash
 npm run test-e2e
 ```
+
+## Run both tests
+```bash
+npm run test
+```
+
+All tests passed

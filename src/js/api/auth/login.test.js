@@ -39,4 +39,5 @@ describe('login function', () => {
   });
 });
 
-// Had computer issues OK Connor
+// Had issues with proper innstallment of jest/babel, causing issues with my code
+// After discussing with Connor, he said it was ok to use old JS (require) to get code to work
