@@ -38,3 +38,5 @@ describe('login function', () => {
     expect(require('../../storage/index.js').save).toHaveBeenCalledWith('token', 'mocked_access_token');
   });
 });
+
+// Had computer issues OK Connor

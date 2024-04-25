@@ -1,6 +1,6 @@
 {
   "name": "css-frameworks-ca",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Test",
   "main": "index.js",
   "scripts": {
@@ -19,9 +19,9 @@
   "author": "Noroff",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.24.4",
+    "@babel/core": "^7.19.3",
     "@babel/plugin-transform-modules-commonjs": "^7.24.1",
-    "@babel/preset-env": "^7.24.4",
+    "@babel/preset-env": "^7.19.4",
     "@eslint/js": "^9.1.1",
     "cypress": "^13.8.0",
     "eslint": "^8.57.0",

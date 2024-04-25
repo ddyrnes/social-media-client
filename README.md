@@ -21,7 +21,9 @@ npm run build
  ```
 
 ## Running tests
-
+```bash
 npm run test-unit
-
+```
+```bash
 npm run test-e2e
+```
